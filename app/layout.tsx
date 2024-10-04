@@ -9,8 +9,8 @@ import './globals.css'
 
 
 export const metadata: Metadata = {
-  title: 'LS2 Outlet',
-  description: 'Oficial', 
+  title: 'Loja',
+  description: '', 
   icons:"/logo.png",
 }
 
