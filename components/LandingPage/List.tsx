@@ -12,7 +12,7 @@ interface MenuItem {
 }
 
 const menuItems: MenuItem[] = [
-  { id: 1, label: 'Outlet Babys 70% OFF (Patrocinado)', avatarUrl: '/baby.webp', url: 'https://cartersbabys.com' },
+  { id: 1, label: 'Outlet Babys 70% DE DESCONTO PRÉ BLACK FRIDAY (Patrocinado)', avatarUrl: '/baby.webp', url: 'https://cartersbabys.com' },
   { id: 2, label: 'Visite nossa loja 💜', avatarUrl: '/baby.webp', url: 'https://cartersbabys.com' },
   { id: 3, label: 'A naninha mais vendida do Brasil 💜', avatarUrl: '/baby.webp', url: 'https://cartersbabys.com' },
   { id: 4, label: 'Mordedor 5 sentidos 💜', avatarUrl: '/baby.webp', url: 'https://cartersbabys.com' },

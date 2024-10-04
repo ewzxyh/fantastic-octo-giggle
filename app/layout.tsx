@@ -9,9 +9,9 @@ import './globals.css'
 
 
 export const metadata: Metadata = {
-  title: 'Loja',
-  description: '', 
-  icons:"/logo.png",
+  title: 'BABYTUBE - VIIH TUBE',
+  description: 'PROMOÇÃO PRÉ BLACK FRIDAY', 
+  icons:"/baby.webp",
 }
 
 export default function RootLayout({
